@@ -1,0 +1,5 @@
+INSERT INTO clientes(nombre,telefono,correo,direccion,estado) VALUES('Mario Fuentes','7586-9320','mario@gmail.com','LA PALMA','A')
+INSERT INTO clientes(nombre,telefono,correo,direccion,estado) VALUES('Fuentes','7532-9320','fhjs@gmail.com','LAS PILAS','A')
+INSERT INTO categorias(nombre) VALUES('Alimento')
+INSERT INTO categorias(nombre) VALUES('Intrumentos')
+INSERT INTO categorias(nombre) VALUES('Dance')
